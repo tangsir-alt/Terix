@@ -1,0 +1,15 @@
+D:\MyWebApi\Tetris\Tetris.Bussiness\bin\Debug\Tetris.Bussiness.dll
+D:\MyWebApi\Tetris\Tetris.Bussiness\bin\Debug\Tetris.Bussiness.pdb
+D:\MyWebApi\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.csprojResolveAssemblyReference.cache
+D:\MyWebApi\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.TetrisControl.resources
+D:\MyWebApi\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.csproj.GenerateResource.Cache
+D:\MyWebApi\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.dll
+D:\MyWebApi\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.pdb
+C:\Users\tang\Desktop\Tetris\Tetris\Tetris.Bussiness\bin\Debug\Tetris.Bussiness.dll
+C:\Users\tang\Desktop\Tetris\Tetris\Tetris.Bussiness\bin\Debug\Tetris.Bussiness.pdb
+C:\Users\tang\Desktop\Tetris\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.csprojAssemblyReference.cache
+C:\Users\tang\Desktop\Tetris\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.TetrisControl.resources
+C:\Users\tang\Desktop\Tetris\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.csproj.GenerateResource.cache
+C:\Users\tang\Desktop\Tetris\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\tang\Desktop\Tetris\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.dll
+C:\Users\tang\Desktop\Tetris\Tetris\Tetris.Bussiness\obj\Debug\Tetris.Bussiness.pdb
